@@ -1,0 +1,29 @@
+from pathlib import Path
+
+# archivo de lista de apuestas bloqueadas
+bloqueo_apuestas_ilegales_en_colombia = """
+1xbet.com
+betplay24.com
+bet365colombia.com
+codere.bet
+betcris.com
+meridianbet.com
+bongobongo.com
+millonariosbet.com
+apuestasonline.bet
+toplay.bet
+24betting.com
+winner.bet
+paripesa.com
+20bet.com
+ivibet.com
+stake.com
+rolletto.com
+1win.com
+linebet.com
+betandyou.com
+mostbet.com
+bettilt.com
+supabets.com
+melbet.com
+""".strip()
